@@ -1,0 +1,17 @@
+h1{
+    text-align: right;
+    font-size: 240px;
+    margin-bottom: 0;
+    color: crimson;
+    
+}
+.col-6{
+   float: right;
+   min-width: 75%;
+}  
+footer{
+    background-color: rgb(82, 82, 240);
+}    
+
+    
+
